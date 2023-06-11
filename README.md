@@ -27,4 +27,4 @@ Contributions are always welcome!
 
 
 ## Credits
-This script was created by Thirumalaivasan S.Feel free to modify and use it for your own purposes. If you have any questions or suggestions, feel free to reach out to me on LinkedIn at any time
+This script was created by Thirumalaivasan S.Feel free to modify and use it for your own purposes. If you have any questions or suggestions, feel free to reach out to me on LinkedIn at any time.
